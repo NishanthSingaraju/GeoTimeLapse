@@ -29,10 +29,10 @@ def uploaded_file_to_gdf(data):
 
 
 def app():
-
+  st.set_page_config(layout="wide")
   today = date.today()
 
-  st.title("Create EE Timelapse")
+  st.title("Create EE Timelapse!")
 
   row1_col1, row1_col2 = st.columns([2, 1])
 
