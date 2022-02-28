@@ -1,2 +1,2 @@
 # GeoTimeLapse
-Create Time Lapse From Earth Engin
+Create Time Lapse From Earth Engine
